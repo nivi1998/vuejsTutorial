@@ -1,0 +1,1 @@
+interpolation:- it help us to use the javascript function inside html(means inside template) in vue.
